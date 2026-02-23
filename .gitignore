@@ -1,0 +1,15 @@
+# Derived render/OCR artifacts (do not publish)
+cnt_tabs/
+pages_raw*
+**/pages_raw*/
+**/ocr*/
+**/ocr_raw*/
+**/ocr_clean*/
+**/latin_adaptive*/
+**/latin_band*/
+**/blocks*/
+**/*.hocr
+
+# OS/editor
+.DS_Store
+*~
